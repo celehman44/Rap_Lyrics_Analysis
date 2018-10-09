@@ -1,0 +1,10 @@
+Progress Report
+  I currently have full data in hand, but I am struggling to decide whether or
+  not I should drop rows that have a missing year or to impute them.
+  I have not done a full EDA, or really any EDA for that matter but plan on
+  completing all my EDA and plots by the end of this week. Processing power is
+  a slight issue, as it takes longer
+  than I would like to run operations on my data frame
+  (I will need to raise the volume on my AWS). My data frame has about 34000 rows
+  and 4 columns (this is before tokenizing my lyrics). After completing EDA
+  this week, next week I would like to focus in on modeling. 
