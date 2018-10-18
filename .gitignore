@@ -1,2 +1,5 @@
 *.ipynb_checkpoints
 *.DS_Store
+X.csv
+df_unique.csv
+df_token.csv
