@@ -16,6 +16,6 @@ The integrity of my data was crucial to my model's success, so being extra prude
 
 The next stop in the process was to feed this list to the genius api wrapper lryics genius to collect each artist's entire library to a json. This ended up taking about 5 days, and in the end made me realize I should have just used requests instead of a wrapper. Check out notebook 2, Scraping_lyrics to see this in action.
 
-After collecting the json's I constructed a dataframe consisting of the lyrics for each song 
+After collecting the json's I constructed a dataframe consisting of the lyrics for each song
 
-![My image](celehman44.github.com/Capstone/images/scr_shot_1.jpg)
+![Screenshot](./images/scr_shot_1.jpg?raw=true "Title")
